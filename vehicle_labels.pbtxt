@@ -1,0 +1,3056 @@
+item {
+  id: 1
+  name: "Jeep-北京JEEP"
+}
+item {
+  id: 2
+  name: "Jeep-大切诺基"
+}
+item {
+  id: 3
+  name: "Jeep-大切诺基SRT"
+}
+item {
+  id: 4
+  name: "Jeep-指南者"
+}
+item {
+  id: 5
+  name: "Jeep-牧马人"
+}
+item {
+  id: 6
+  name: "Jeep-自由侠"
+}
+item {
+  id: 7
+  name: "MINI"
+}
+item {
+  id: 8
+  name: "MINI CLUBMAN"
+}
+item {
+  id: 9
+  name: "MINI-JCW"
+}
+item {
+  id: 10
+  name: "MINI-JCWPACEMAN"
+}
+item {
+  id: 11
+  name: "MINI-ROCKETMAN"
+}
+item {
+  id: 12
+  name: "smart-forfour"
+}
+item {
+  id: 13
+  name: "smart-forjeremy"
+}
+item {
+  id: 14
+  name: "smart-roadster"
+}
+item {
+  id: 15
+  name: "三菱-Colt"
+}
+item {
+  id: 16
+  name: "三菱-GC-PHEV"
+}
+item {
+  id: 17
+  name: "三菱-L200"
+}
+item {
+  id: 18
+  name: "三菱-LANCER"
+}
+item {
+  id: 19
+  name: "三菱-Mirage"
+}
+item {
+  id: 20
+  name: "三菱-XR-PHEV"
+}
+item {
+  id: 21
+  name: "三菱-劲炫ASX"
+}
+item {
+  id: 22
+  name: "三菱-君阁"
+}
+item {
+  id: 23
+  name: "三菱-帕杰罗"
+}
+item {
+  id: 24
+  name: "三菱-戈蓝"
+}
+item {
+  id: 25
+  name: "三菱-格蓝迪"
+}
+item {
+  id: 26
+  name: "三菱-欧蓝德"
+}
+item {
+  id: 27
+  name: "三菱-翼神"
+}
+item {
+  id: 28
+  name: "三菱-蓝瑟"
+}
+item {
+  id: 29
+  name: "东南-V3菱悦"
+}
+item {
+  id: 30
+  name: "东南-V5菱致"
+}
+item {
+  id: 31
+  name: "东南-V6菱仕"
+}
+item {
+  id: 32
+  name: "东风-俊风CV03"
+}
+item {
+  id: 33
+  name: "东风-御风"
+}
+item {
+  id: 34
+  name: "东风小康-K17"
+}
+item {
+  id: 35
+  name: "东风标致-307"
+}
+item {
+  id: 36
+  name: "东风标致-408"
+}
+item {
+  id: 37
+  name: "东风风度-MX5"
+}
+item {
+  id: 38
+  name: "东风风度-MX6"
+}
+item {
+  id: 39
+  name: "东风风神-A30"
+}
+item {
+  id: 40
+  name: "东风风神-A60"
+}
+item {
+  id: 41
+  name: "东风风神-AX4"
+}
+item {
+  id: 42
+  name: "东风风神-AX5"
+}
+item {
+  id: 43
+  name: "东风风神-AX7"
+}
+item {
+  id: 44
+  name: "东风风神-H30"
+}
+item {
+  id: 45
+  name: "东风风神-L60"
+}
+item {
+  id: 46
+  name: "东风风行-景逸"
+}
+item {
+  id: 47
+  name: "东风风行-景逸S50"
+}
+item {
+  id: 48
+  name: "东风风行-景逸SUV"
+}
+item {
+  id: 49
+  name: "东风风行-景逸X3"
+}
+item {
+  id: 50
+  name: "东风风行-景逸X6"
+}
+item {
+  id: 51
+  name: "东风风行-菱智"
+}
+item {
+  id: 52
+  name: "东风风行-风行CM7"
+}
+item {
+  id: 53
+  name: "东风风行-风行S500"
+}
+item {
+  id: 54
+  name: "中华-H220"
+}
+item {
+  id: 55
+  name: "中华-H230"
+}
+item {
+  id: 56
+  name: "中华-H3"
+}
+item {
+  id: 57
+  name: "中华-H320"
+}
+item {
+  id: 58
+  name: "中华-H330"
+}
+item {
+  id: 59
+  name: "中华-V3"
+}
+item {
+  id: 60
+  name: "中华-V5"
+}
+item {
+  id: 61
+  name: "中华-V6"
+}
+item {
+  id: 62
+  name: "中华-尊驰"
+}
+item {
+  id: 63
+  name: "中华-酷宝"
+}
+item {
+  id: 64
+  name: "中华-骏捷"
+}
+item {
+  id: 65
+  name: "中华-骏捷Cross"
+}
+item {
+  id: 66
+  name: "中华-骏捷FRV"
+}
+item {
+  id: 67
+  name: "中华-骏捷FSV"
+}
+item {
+  id: 68
+  name: "丰田-4Runner"
+}
+item {
+  id: 69
+  name: "丰田-86"
+}
+item {
+  id: 70
+  name: "丰田-Auris"
+}
+item {
+  id: 71
+  name: "丰田-Avensis"
+}
+item {
+  id: 72
+  name: "丰田-Aygo"
+}
+item {
+  id: 73
+  name: "丰田-FCV"
+}
+item {
+  id: 74
+  name: "丰田-FT-1"
+}
+item {
+  id: 75
+  name: "丰田-FT-86"
+}
+item {
+  id: 76
+  name: "丰田-Hilux"
+}
+item {
+  id: 77
+  name: "丰田-Tacoma"
+}
+item {
+  id: 78
+  name: "丰田-Verso"
+}
+item {
+  id: 79
+  name: "丰田-YARiSL致享"
+}
+item {
+  id: 80
+  name: "丰田-YARiSL致炫"
+}
+item {
+  id: 81
+  name: "丰田-兰德酷路泽"
+}
+item {
+  id: 82
+  name: "丰田-凯美瑞"
+}
+item {
+  id: 83
+  name: "丰田-卡罗拉"
+}
+item {
+  id: 84
+  name: "丰田-埃尔法"
+}
+item {
+  id: 85
+  name: "丰田-威飒"
+}
+item {
+  id: 86
+  name: "丰田-威驰"
+}
+item {
+  id: 87
+  name: "丰田-威驰FS"
+}
+item {
+  id: 88
+  name: "丰田-普拉多"
+}
+item {
+  id: 89
+  name: "丰田-普瑞维亚"
+}
+item {
+  id: 90
+  name: "丰田-杰路驰"
+}
+item {
+  id: 91
+  name: "丰田-特锐"
+}
+item {
+  id: 92
+  name: "丰田-皇冠"
+}
+item {
+  id: 93
+  name: "丰田-花冠"
+}
+item {
+  id: 94
+  name: "丰田-逸致"
+}
+item {
+  id: 95
+  name: "丰田-锐志"
+}
+item {
+  id: 96
+  name: "丰田-雷凌"
+}
+item {
+  id: 97
+  name: "众泰-2008"
+}
+item {
+  id: 98
+  name: "众泰-5008"
+}
+item {
+  id: 99
+  name: "众泰-E200"
+}
+item {
+  id: 100
+  name: "众泰-SR7"
+}
+item {
+  id: 101
+  name: "众泰-SR9"
+}
+item {
+  id: 102
+  name: "众泰-T200"
+}
+item {
+  id: 103
+  name: "众泰-T300"
+}
+item {
+  id: 104
+  name: "众泰-T500"
+}
+item {
+  id: 105
+  name: "众泰-T600"
+}
+item {
+  id: 106
+  name: "众泰-T600Coupe"
+}
+item {
+  id: 107
+  name: "众泰-T700"
+}
+item {
+  id: 108
+  name: "众泰-Z100"
+}
+item {
+  id: 109
+  name: "众泰-Z200"
+}
+item {
+  id: 110
+  name: "众泰-Z200HB"
+}
+item {
+  id: 111
+  name: "众泰-Z300"
+}
+item {
+  id: 112
+  name: "众泰-Z500"
+}
+item {
+  id: 113
+  name: "众泰-Z700"
+}
+item {
+  id: 114
+  name: "众泰-云100"
+}
+item {
+  id: 115
+  name: "众泰-大迈X5"
+}
+item {
+  id: 116
+  name: "众泰-大迈X7"
+}
+item {
+  id: 117
+  name: "众泰-芝麻"
+}
+item {
+  id: 118
+  name: "依维柯-Campagnola"
+}
+item {
+  id: 119
+  name: "保时捷-718"
+}
+item {
+  id: 120
+  name: "保时捷-911"
+}
+item {
+  id: 121
+  name: "保时捷-Cayenne"
+}
+item {
+  id: 122
+  name: "保时捷-Panamera新能源"
+}
+item {
+  id: 123
+  name: "克莱斯勒-300C"
+}
+item {
+  id: 124
+  name: "克莱斯勒-Delta"
+}
+item {
+  id: 125
+  name: "克莱斯勒-PT漫步者"
+}
+item {
+  id: 126
+  name: "克莱斯勒-Pacifica"
+}
+item {
+  id: 127
+  name: "克莱斯勒-猎兽"
+}
+item {
+  id: 128
+  name: "凯迪拉克-CT6"
+}
+item {
+  id: 129
+  name: "凯迪拉克-DeVille"
+}
+item {
+  id: 130
+  name: "凯迪拉克-ELR"
+}
+item {
+  id: 131
+  name: "凯迪拉克-SLS赛威"
+}
+item {
+  id: 132
+  name: "凯迪拉克-STS"
+}
+item {
+  id: 133
+  name: "凯迪拉克-XT5"
+}
+item {
+  id: 134
+  name: "凯迪拉克-XTS"
+}
+item {
+  id: 135
+  name: "别克-Cascada"
+}
+item {
+  id: 136
+  name: "别克-GL8"
+}
+item {
+  id: 137
+  name: "别克-Riviera"
+}
+item {
+  id: 138
+  name: "别克-VELITE5"
+}
+item {
+  id: 139
+  name: "别克-凯越"
+}
+item {
+  id: 140
+  name: "别克-君威"
+}
+item {
+  id: 141
+  name: "别克-君越"
+}
+item {
+  id: 142
+  name: "别克-昂科拉"
+}
+item {
+  id: 143
+  name: "别克-阅朗"
+}
+item {
+  id: 144
+  name: "双龙-主席"
+}
+item {
+  id: 145
+  name: "双龙-享御"
+}
+item {
+  id: 146
+  name: "双龙-柯兰多"
+}
+item {
+  id: 147
+  name: "双龙-路帝"
+}
+item {
+  id: 148
+  name: "双龙-途凌"
+}
+item {
+  id: 149
+  name: "双龙-雷斯特W"
+}
+item {
+  id: 150
+  name: "吉利汽车-博瑞"
+}
+item {
+  id: 151
+  name: "吉利汽车-吉利EC8"
+}
+item {
+  id: 152
+  name: "吉利汽车-吉利GX2"
+}
+item {
+  id: 153
+  name: "吉利汽车-吉利SC3"
+}
+item {
+  id: 154
+  name: "吉利汽车-吉利SC5-RV"
+}
+item {
+  id: 155
+  name: "吉利汽车-帝豪"
+}
+item {
+  id: 156
+  name: "吉利汽车-帝豪GL"
+}
+item {
+  id: 157
+  name: "吉利汽车-帝豪新能源"
+}
+item {
+  id: 158
+  name: "吉利汽车-海景"
+}
+item {
+  id: 159
+  name: "吉利汽车-经典帝豪"
+}
+item {
+  id: 160
+  name: "吉利汽车-美人豹"
+}
+item {
+  id: 161
+  name: "吉利汽车-自由舰"
+}
+item {
+  id: 162
+  name: "吉利汽车-英伦C5"
+}
+item {
+  id: 163
+  name: "吉利汽车-英伦TX4"
+}
+item {
+  id: 164
+  name: "吉利汽车-豪情"
+}
+item {
+  id: 165
+  name: "吉利汽车-豪情SUV"
+}
+item {
+  id: 166
+  name: "吉利汽车-远景"
+}
+item {
+  id: 167
+  name: "吉利汽车-远景S1"
+}
+item {
+  id: 168
+  name: "吉利汽车-远景SUV"
+}
+item {
+  id: 169
+  name: "吉利汽车-远景X1"
+}
+item {
+  id: 170
+  name: "吉利汽车-远景X3"
+}
+item {
+  id: 171
+  name: "吉利汽车-金刚"
+}
+item {
+  id: 172
+  name: "名爵-5"
+}
+item {
+  id: 173
+  name: "名爵-E-motion"
+}
+item {
+  id: 174
+  name: "名爵-TF"
+}
+item {
+  id: 175
+  name: "名爵-ZS"
+}
+item {
+  id: 176
+  name: "名爵-锐行"
+}
+item {
+  id: 177
+  name: "启辰-D50"
+}
+item {
+  id: 178
+  name: "启辰-D60"
+}
+item {
+  id: 179
+  name: "启辰-M50V"
+}
+item {
+  id: 180
+  name: "启辰-R50"
+}
+item {
+  id: 181
+  name: "启辰-T90"
+}
+item {
+  id: 182
+  name: "启辰-晨风"
+}
+item {
+  id: 183
+  name: "哈弗-H1"
+}
+item {
+  id: 184
+  name: "哈弗-H2"
+}
+item {
+  id: 185
+  name: "哈弗-H3"
+}
+item {
+  id: 186
+  name: "哈弗-H6"
+}
+item {
+  id: 187
+  name: "哈弗-M6"
+}
+item {
+  id: 188
+  name: "哈飞-赛豹III"
+}
+item {
+  id: 189
+  name: "哈飞-赛豹V"
+}
+item {
+  id: 190
+  name: "哈飞-赛马"
+}
+item {
+  id: 191
+  name: "哈飞-路宝"
+}
+item {
+  id: 192
+  name: "大众-Amarok"
+}
+item {
+  id: 193
+  name: "大众-Arteon"
+}
+item {
+  id: 194
+  name: "大众-Atlas"
+}
+item {
+  id: 195
+  name: "大众-CC"
+}
+item {
+  id: 196
+  name: "大众-CrossBlue"
+}
+item {
+  id: 197
+  name: "大众-CrossCoupe"
+}
+item {
+  id: 198
+  name: "大众-IDCrozz"
+}
+item {
+  id: 199
+  name: "大众-Jetta"
+}
+item {
+  id: 200
+  name: "大众-POLO"
+}
+item {
+  id: 201
+  name: "大众-XL"
+}
+item {
+  id: 202
+  name: "大众-XL1"
+}
+item {
+  id: 203
+  name: "大众-e-up!"
+}
+item {
+  id: 204
+  name: "大众-凌渡"
+}
+item {
+  id: 205
+  name: "大众-凯路威"
+}
+item {
+  id: 206
+  name: "大众-夏朗"
+}
+item {
+  id: 207
+  name: "大众-宝来"
+}
+item {
+  id: 208
+  name: "大众-尚酷"
+}
+item {
+  id: 209
+  name: "大众-帕萨特"
+}
+item {
+  id: 210
+  name: "大众-捷达"
+}
+item {
+  id: 211
+  name: "大众-朗行"
+}
+item {
+  id: 212
+  name: "大众-朗逸"
+}
+item {
+  id: 213
+  name: "大众-桑塔纳"
+}
+item {
+  id: 214
+  name: "大众-桑塔纳志俊"
+}
+item {
+  id: 215
+  name: "大众-桑塔纳经典"
+}
+item {
+  id: 216
+  name: "大众-甲壳虫"
+}
+item {
+  id: 217
+  name: "大众-蔚揽"
+}
+item {
+  id: 218
+  name: "大众-蔚领"
+}
+item {
+  id: 219
+  name: "大众-辉昂"
+}
+item {
+  id: 220
+  name: "大众-迈特威"
+}
+item {
+  id: 221
+  name: "大众-迈腾"
+}
+item {
+  id: 222
+  name: "大众-途安"
+}
+item {
+  id: 223
+  name: "大众-途昂"
+}
+item {
+  id: 224
+  name: "大众-途观"
+}
+item {
+  id: 225
+  name: "大众-途锐"
+}
+item {
+  id: 226
+  name: "大众-速腾"
+}
+item {
+  id: 227
+  name: "大众-高尔夫"
+}
+item {
+  id: 228
+  name: "奇瑞-A1"
+}
+item {
+  id: 229
+  name: "奇瑞-A3"
+}
+item {
+  id: 230
+  name: "奇瑞-E5"
+}
+item {
+  id: 231
+  name: "奇瑞-QQ"
+}
+item {
+  id: 232
+  name: "奇瑞-QQ6"
+}
+item {
+  id: 233
+  name: "奇瑞-eQ"
+}
+item {
+  id: 234
+  name: "奇瑞-东方之子Cross"
+}
+item {
+  id: 235
+  name: "奇瑞-旗云1"
+}
+item {
+  id: 236
+  name: "奇瑞-旗云5"
+}
+item {
+  id: 237
+  name: "奇瑞-瑞虎"
+}
+item {
+  id: 238
+  name: "奇瑞-瑞虎5"
+}
+item {
+  id: 239
+  name: "奇瑞-瑞虎5x"
+}
+item {
+  id: 240
+  name: "奇瑞-瑞虎7"
+}
+item {
+  id: 241
+  name: "奇瑞-艾瑞泽3"
+}
+item {
+  id: 242
+  name: "奇瑞-艾瑞泽5"
+}
+item {
+  id: 243
+  name: "奇瑞-艾瑞泽5e"
+}
+item {
+  id: 244
+  name: "奇瑞-艾瑞泽7"
+}
+item {
+  id: 245
+  name: "奔腾-B30"
+}
+item {
+  id: 246
+  name: "奔腾-B50"
+}
+item {
+  id: 247
+  name: "奔腾-B70"
+}
+item {
+  id: 248
+  name: "奔腾-X40"
+}
+item {
+  id: 249
+  name: "奔腾-X80"
+}
+item {
+  id: 250
+  name: "奔驰-AMGGT"
+}
+item {
+  id: 251
+  name: "奔驰-CLK级"
+}
+item {
+  id: 252
+  name: "奔驰-C级"
+}
+item {
+  id: 253
+  name: "奔驰-C级新能源"
+}
+item {
+  id: 254
+  name: "奔驰-Ener-G-Force"
+}
+item {
+  id: 255
+  name: "奔驰-E级"
+}
+item {
+  id: 256
+  name: "奔驰-E级AMG"
+}
+item {
+  id: 257
+  name: "奔驰-F015"
+}
+item {
+  id: 258
+  name: "奔驰-F800"
+}
+item {
+  id: 259
+  name: "奔驰-GLA"
+}
+item {
+  id: 260
+  name: "奔驰-GLC"
+}
+item {
+  id: 261
+  name: "奔驰-GLK级"
+}
+item {
+  id: 262
+  name: "奔驰-GLSAMG"
+}
+item {
+  id: 263
+  name: "奔驰-G级"
+}
+item {
+  id: 264
+  name: "奔驰-SLC"
+}
+item {
+  id: 265
+  name: "奔驰-SLK级AMG"
+}
+item {
+  id: 266
+  name: "奔驰-SL级"
+}
+item {
+  id: 267
+  name: "奔驰-SL级AMG"
+}
+item {
+  id: 268
+  name: "奔驰-S级"
+}
+item {
+  id: 269
+  name: "奔驰-S级新能源"
+}
+item {
+  id: 270
+  name: "奔驰-VisionMercedes-Maybach6"
+}
+item {
+  id: 271
+  name: "奔驰-V级"
+}
+item {
+  id: 272
+  name: "奔驰-迈巴赫S级"
+}
+item {
+  id: 273
+  name: "奥迪-A1"
+}
+item {
+  id: 274
+  name: "奥迪-A3"
+}
+item {
+  id: 275
+  name: "奥迪-A4"
+}
+item {
+  id: 276
+  name: "奥迪-A4L"
+}
+item {
+  id: 277
+  name: "奥迪-A5"
+}
+item {
+  id: 278
+  name: "奥迪-A6L"
+}
+item {
+  id: 279
+  name: "奥迪-A7"
+}
+item {
+  id: 280
+  name: "奥迪-A8"
+}
+item {
+  id: 281
+  name: "奥迪-Cross"
+}
+item {
+  id: 282
+  name: "奥迪-CrosslaneCoupe"
+}
+item {
+  id: 283
+  name: "奥迪-Prologue"
+}
+item {
+  id: 284
+  name: "奥迪-Q2"
+}
+item {
+  id: 285
+  name: "奥迪-Q3"
+}
+item {
+  id: 286
+  name: "奥迪-Q5"
+}
+item {
+  id: 287
+  name: "奥迪-Q7"
+}
+item {
+  id: 288
+  name: "奥迪-Q8"
+}
+item {
+  id: 289
+  name: "奥迪-R18"
+}
+item {
+  id: 290
+  name: "奥迪-R8"
+}
+item {
+  id: 291
+  name: "奥迪-RS3"
+}
+item {
+  id: 292
+  name: "奥迪-RS4"
+}
+item {
+  id: 293
+  name: "奥迪-RS5"
+}
+item {
+  id: 294
+  name: "奥迪-RS6"
+}
+item {
+  id: 295
+  name: "奥迪-RS7"
+}
+item {
+  id: 296
+  name: "奥迪-RSQ3"
+}
+item {
+  id: 297
+  name: "奥迪-S1"
+}
+item {
+  id: 298
+  name: "奥迪-S3"
+}
+item {
+  id: 299
+  name: "奥迪-S4"
+}
+item {
+  id: 300
+  name: "奥迪-S5"
+}
+item {
+  id: 301
+  name: "奥迪-SQ5"
+}
+item {
+  id: 302
+  name: "奥迪-TT"
+}
+item {
+  id: 303
+  name: "奥迪-Urban"
+}
+item {
+  id: 304
+  name: "宝马-1系"
+}
+item {
+  id: 305
+  name: "宝马-1系M"
+}
+item {
+  id: 306
+  name: "宝马-2系多功能旅行车"
+}
+item {
+  id: 307
+  name: "宝马-2系旅行车"
+}
+item {
+  id: 308
+  name: "宝马-30CSLHommage"
+}
+item {
+  id: 309
+  name: "宝马-3系"
+}
+item {
+  id: 310
+  name: "宝马-3系GT"
+}
+item {
+  id: 311
+  name: "宝马-4系"
+}
+item {
+  id: 312
+  name: "宝马-5系"
+}
+item {
+  id: 313
+  name: "宝马-5系GT"
+}
+item {
+  id: 314
+  name: "宝马-5系新能源"
+}
+item {
+  id: 315
+  name: "宝马-6系"
+}
+item {
+  id: 316
+  name: "宝马-6系GT"
+}
+item {
+  id: 317
+  name: "宝马-7系"
+}
+item {
+  id: 318
+  name: "宝马-7系新能源"
+}
+item {
+  id: 319
+  name: "宝马-ActiveTourer"
+}
+item {
+  id: 320
+  name: "宝马-ConnectedDrive"
+}
+item {
+  id: 321
+  name: "宝马-EfficientDynamics"
+}
+item {
+  id: 322
+  name: "宝马-GINA"
+}
+item {
+  id: 323
+  name: "宝马-M1"
+}
+item {
+  id: 324
+  name: "宝马-M2"
+}
+item {
+  id: 325
+  name: "宝马-M3"
+}
+item {
+  id: 326
+  name: "宝马-M4"
+}
+item {
+  id: 327
+  name: "宝马-M5"
+}
+item {
+  id: 328
+  name: "宝马-M6"
+}
+item {
+  id: 329
+  name: "宝马-X1"
+}
+item {
+  id: 330
+  name: "宝马-X5"
+}
+item {
+  id: 331
+  name: "宝马-X5M"
+}
+item {
+  id: 332
+  name: "宝马-X6M"
+}
+item {
+  id: 333
+  name: "宝马-ZagatoCoupe"
+}
+item {
+  id: 334
+  name: "宝马-i3"
+}
+item {
+  id: 335
+  name: "宝骏-310"
+}
+item {
+  id: 336
+  name: "宝骏-310W"
+}
+item {
+  id: 337
+  name: "宝骏-510"
+}
+item {
+  id: 338
+  name: "宝骏-530"
+}
+item {
+  id: 339
+  name: "宝骏-560"
+}
+item {
+  id: 340
+  name: "宝骏-610"
+}
+item {
+  id: 341
+  name: "宝骏-730"
+}
+item {
+  id: 342
+  name: "宝骏-乐驰"
+}
+item {
+  id: 343
+  name: "巴博斯-G级"
+}
+item {
+  id: 344
+  name: "巴博斯-SLS级"
+}
+item {
+  id: 345
+  name: "巴博斯-smartfortwo"
+}
+item {
+  id: 346
+  name: "广汽传祺-传祺GA3"
+}
+item {
+  id: 347
+  name: "广汽传祺-传祺GA5"
+}
+item {
+  id: 348
+  name: "广汽传祺-传祺GA5新能源"
+}
+item {
+  id: 349
+  name: "广汽传祺-传祺GM8"
+}
+item {
+  id: 350
+  name: "广汽传祺-传祺GS3"
+}
+item {
+  id: 351
+  name: "广汽传祺-传祺GS4"
+}
+item {
+  id: 352
+  name: "广汽传祺-传祺GS5Super"
+}
+item {
+  id: 353
+  name: "广汽传祺-传祺GS7"
+}
+item {
+  id: 354
+  name: "广汽吉奥-GX6"
+}
+item {
+  id: 355
+  name: "广汽吉奥-奥轩GX5"
+}
+item {
+  id: 356
+  name: "广汽吉奥-星朗"
+}
+item {
+  id: 357
+  name: "悍马-H1"
+}
+item {
+  id: 358
+  name: "悍马-H2"
+}
+item {
+  id: 359
+  name: "悍马-H3"
+}
+item {
+  id: 360
+  name: "捷豹-C-X16"
+}
+item {
+  id: 361
+  name: "捷豹-C-X75"
+}
+item {
+  id: 362
+  name: "捷豹-XEL"
+}
+item {
+  id: 363
+  name: "捷豹-XF"
+}
+item {
+  id: 364
+  name: "捷豹-XFL"
+}
+item {
+  id: 365
+  name: "捷豹-XJ"
+}
+item {
+  id: 366
+  name: "斯巴鲁-WRX"
+}
+item {
+  id: 367
+  name: "斯巴鲁-XV"
+}
+item {
+  id: 368
+  name: "斯巴鲁-傲虎"
+}
+item {
+  id: 369
+  name: "斯巴鲁-森林人"
+}
+item {
+  id: 370
+  name: "斯巴鲁-翼豹"
+}
+item {
+  id: 371
+  name: "斯巴鲁-驰鹏"
+}
+item {
+  id: 372
+  name: "斯柯达-Citigo"
+}
+item {
+  id: 373
+  name: "斯柯达-Roomster"
+}
+item {
+  id: 374
+  name: "斯柯达-Superb"
+}
+item {
+  id: 375
+  name: "斯柯达-Yeti"
+}
+item {
+  id: 376
+  name: "斯柯达-昊锐"
+}
+item {
+  id: 377
+  name: "斯柯达-明锐"
+}
+item {
+  id: 378
+  name: "斯柯达-晶锐"
+}
+item {
+  id: 379
+  name: "斯柯达-柯迪亚克"
+}
+item {
+  id: 380
+  name: "斯柯达-速尊"
+}
+item {
+  id: 381
+  name: "斯柯达-速派"
+}
+item {
+  id: 382
+  name: "日产-350Z"
+}
+item {
+  id: 383
+  name: "日产-370Z"
+}
+item {
+  id: 384
+  name: "日产-Altima"
+}
+item {
+  id: 385
+  name: "日产-D22"
+}
+item {
+  id: 386
+  name: "日产-DeltaWing"
+}
+item {
+  id: 387
+  name: "日产-Esflow"
+}
+item {
+  id: 388
+  name: "日产-Friend-ME"
+}
+item {
+  id: 389
+  name: "日产-GT-R"
+}
+item {
+  id: 390
+  name: "日产-IDX"
+}
+item {
+  id: 391
+  name: "日产-JUKE"
+}
+item {
+  id: 392
+  name: "日产-LANNIA蓝鸟"
+}
+item {
+  id: 393
+  name: "日产-Rogue"
+}
+item {
+  id: 394
+  name: "日产-Sentra"
+}
+item {
+  id: 395
+  name: "日产-Titan"
+}
+item {
+  id: 396
+  name: "日产-Xterra"
+}
+item {
+  id: 397
+  name: "日产-劲客"
+}
+item {
+  id: 398
+  name: "日产-天籁"
+}
+item {
+  id: 399
+  name: "日产-楼兰"
+}
+item {
+  id: 400
+  name: "日产-玛驰"
+}
+item {
+  id: 401
+  name: "日产-聆风"
+}
+item {
+  id: 402
+  name: "日产-西玛"
+}
+item {
+  id: 403
+  name: "日产-轩逸"
+}
+item {
+  id: 404
+  name: "日产-逍客"
+}
+item {
+  id: 405
+  name: "日产-途乐"
+}
+item {
+  id: 406
+  name: "日产-颐达"
+}
+item {
+  id: 407
+  name: "日产-风雅"
+}
+item {
+  id: 408
+  name: "日产-骊威"
+}
+item {
+  id: 409
+  name: "日产-骏逸"
+}
+item {
+  id: 410
+  name: "日产-骐达"
+}
+item {
+  id: 411
+  name: "昌河-M70"
+}
+item {
+  id: 412
+  name: "昌河-Q25"
+}
+item {
+  id: 413
+  name: "昌河-Q35"
+}
+item {
+  id: 414
+  name: "昌河-爱迪尔"
+}
+item {
+  id: 415
+  name: "本田-CR-V"
+}
+item {
+  id: 416
+  name: "本田-CR-Z"
+}
+item {
+  id: 417
+  name: "本田-FCX"
+}
+item {
+  id: 418
+  name: "本田-HR-V"
+}
+item {
+  id: 419
+  name: "本田-INSIGHT"
+}
+item {
+  id: 420
+  name: "本田-NONE"
+}
+item {
+  id: 421
+  name: "本田-Ridgeline"
+}
+item {
+  id: 422
+  name: "本田-S2000"
+}
+item {
+  id: 423
+  name: "本田-UR-V"
+}
+item {
+  id: 424
+  name: "本田-VEZEL"
+}
+item {
+  id: 425
+  name: "本田-XR-V"
+}
+item {
+  id: 426
+  name: "本田-元素"
+}
+item {
+  id: 427
+  name: "本田-冠道"
+}
+item {
+  id: 428
+  name: "本田-凌派"
+}
+item {
+  id: 429
+  name: "本田-哥瑞"
+}
+item {
+  id: 430
+  name: "本田-奥德赛"
+}
+item {
+  id: 431
+  name: "本田-思域"
+}
+item {
+  id: 432
+  name: "本田-思铂睿"
+}
+item {
+  id: 433
+  name: "本田-杰德"
+}
+item {
+  id: 434
+  name: "本田-歌诗图"
+}
+item {
+  id: 435
+  name: "本田-竞瑞"
+}
+item {
+  id: 436
+  name: "本田-缤智"
+}
+item {
+  id: 437
+  name: "本田-艾力绅"
+}
+item {
+  id: 438
+  name: "本田-锋范"
+}
+item {
+  id: 439
+  name: "本田-锋范经典"
+}
+item {
+  id: 440
+  name: "本田-雅阁"
+}
+item {
+  id: 441
+  name: "本田-飞度"
+}
+item {
+  id: 442
+  name: "林肯-MKC"
+}
+item {
+  id: 443
+  name: "林肯-MKZ"
+}
+item {
+  id: 444
+  name: "林肯-城市"
+}
+item {
+  id: 445
+  name: "林肯-大陆"
+}
+item {
+  id: 446
+  name: "林肯-领航员"
+}
+item {
+  id: 447
+  name: "比亚迪-F0"
+}
+item {
+  id: 448
+  name: "比亚迪-F3"
+}
+item {
+  id: 449
+  name: "比亚迪-F3新能源"
+}
+item {
+  id: 450
+  name: "比亚迪-G3"
+}
+item {
+  id: 451
+  name: "比亚迪-G3R"
+}
+item {
+  id: 452
+  name: "比亚迪-G6"
+}
+item {
+  id: 453
+  name: "比亚迪-L3"
+}
+item {
+  id: 454
+  name: "比亚迪-S6"
+}
+item {
+  id: 455
+  name: "比亚迪-S7"
+}
+item {
+  id: 456
+  name: "比亚迪-S8"
+}
+item {
+  id: 457
+  name: "比亚迪-e6"
+}
+item {
+  id: 458
+  name: "比亚迪-元"
+}
+item {
+  id: 459
+  name: "比亚迪-唐"
+}
+item {
+  id: 460
+  name: "比亚迪-宋"
+}
+item {
+  id: 461
+  name: "比亚迪-宋MAX"
+}
+item {
+  id: 462
+  name: "比亚迪-宋新能源"
+}
+item {
+  id: 463
+  name: "比亚迪-思锐"
+}
+item {
+  id: 464
+  name: "比亚迪-福莱尔"
+}
+item {
+  id: 465
+  name: "比亚迪-秦"
+}
+item {
+  id: 466
+  name: "比亚迪-速锐"
+}
+item {
+  id: 467
+  name: "江淮-K5"
+}
+item {
+  id: 468
+  name: "江淮-同悦"
+}
+item {
+  id: 469
+  name: "江淮-同悦RS"
+}
+item {
+  id: 470
+  name: "江淮-悦悦"
+}
+item {
+  id: 471
+  name: "江淮-瑞铃"
+}
+item {
+  id: 472
+  name: "江淮-瑞风"
+}
+item {
+  id: 473
+  name: "江淮-瑞风M4"
+}
+item {
+  id: 474
+  name: "江淮-瑞风M5"
+}
+item {
+  id: 475
+  name: "江淮-瑞风M6"
+}
+item {
+  id: 476
+  name: "江淮-瑞风S2"
+}
+item {
+  id: 477
+  name: "江淮-瑞风S3"
+}
+item {
+  id: 478
+  name: "江淮-瑞风S7"
+}
+item {
+  id: 479
+  name: "江淮-瑞鹰"
+}
+item {
+  id: 480
+  name: "江铃-域虎"
+}
+item {
+  id: 481
+  name: "沃尔沃-C30"
+}
+item {
+  id: 482
+  name: "沃尔沃-S40"
+}
+item {
+  id: 483
+  name: "沃尔沃-S60L"
+}
+item {
+  id: 484
+  name: "沃尔沃-S90"
+}
+item {
+  id: 485
+  name: "沃尔沃-V40"
+}
+item {
+  id: 486
+  name: "沃尔沃-V60"
+}
+item {
+  id: 487
+  name: "沃尔沃-V90"
+}
+item {
+  id: 488
+  name: "沃尔沃-XC60"
+}
+item {
+  id: 489
+  name: "沃尔沃-XC90"
+}
+item {
+  id: 490
+  name: "沃尔沃-XC90新能源"
+}
+item {
+  id: 491
+  name: "海马-3"
+}
+item {
+  id: 492
+  name: "海马-M6"
+}
+item {
+  id: 493
+  name: "海马-S5青春版"
+}
+item {
+  id: 494
+  name: "海马-S7"
+}
+item {
+  id: 495
+  name: "海马-V70"
+}
+item {
+  id: 496
+  name: "海马-普力马"
+}
+item {
+  id: 497
+  name: "海马-欢动"
+}
+item {
+  id: 498
+  name: "海马-王子"
+}
+item {
+  id: 499
+  name: "海马-福美来"
+}
+item {
+  id: 500
+  name: "海马-福美来MPV"
+}
+item {
+  id: 501
+  name: "猎豹汽车-猎豹CS10"
+}
+item {
+  id: 502
+  name: "猎豹汽车-猎豹CS6"
+}
+item {
+  id: 503
+  name: "猎豹汽车-猎豹CS7"
+}
+item {
+  id: 504
+  name: "猎豹汽车-猎豹CS9"
+}
+item {
+  id: 505
+  name: "玛莎拉蒂-Levante"
+}
+item {
+  id: 506
+  name: "玛莎拉蒂-总裁"
+}
+item {
+  id: 507
+  name: "现代-H-1辉翼"
+}
+item {
+  id: 508
+  name: "现代-KONA"
+}
+item {
+  id: 509
+  name: "现代-i10"
+}
+item {
+  id: 510
+  name: "现代-i20"
+}
+item {
+  id: 511
+  name: "现代-伊兰特"
+}
+item {
+  id: 512
+  name: "现代-全新胜达"
+}
+item {
+  id: 513
+  name: "现代-劳恩斯"
+}
+item {
+  id: 514
+  name: "现代-劳恩斯-酷派"
+}
+item {
+  id: 515
+  name: "现代-北京现代-i30"
+}
+item {
+  id: 516
+  name: "现代-北京现代-ix35"
+}
+item {
+  id: 517
+  name: "现代-名图"
+}
+item {
+  id: 518
+  name: "现代-名驭"
+}
+item {
+  id: 519
+  name: "现代-君爵"
+}
+item {
+  id: 520
+  name: "现代-悦动"
+}
+item {
+  id: 521
+  name: "现代-悦纳"
+}
+item {
+  id: 522
+  name: "现代-悦纳RV"
+}
+item {
+  id: 523
+  name: "现代-捷恩斯"
+}
+item {
+  id: 524
+  name: "现代-朗动"
+}
+item {
+  id: 525
+  name: "现代-索纳塔"
+}
+item {
+  id: 526
+  name: "现代-索纳塔九"
+}
+item {
+  id: 527
+  name: "现代-索纳塔八"
+}
+item {
+  id: 528
+  name: "现代-美佳"
+}
+item {
+  id: 529
+  name: "现代-酷派"
+}
+item {
+  id: 530
+  name: "现代-雅科仕"
+}
+item {
+  id: 531
+  name: "现代-雅绅特"
+}
+item {
+  id: 532
+  name: "福特-B-MAX"
+}
+item {
+  id: 533
+  name: "福特-C-MAX"
+}
+item {
+  id: 534
+  name: "福特-GT"
+}
+item {
+  id: 535
+  name: "福特-Kuga"
+}
+item {
+  id: 536
+  name: "福特-Mustang"
+}
+item {
+  id: 537
+  name: "福特-Ranger"
+}
+item {
+  id: 538
+  name: "福特-SuperDuty"
+}
+item {
+  id: 539
+  name: "福特-Territory"
+}
+item {
+  id: 540
+  name: "福特-Transit"
+}
+item {
+  id: 541
+  name: "福特-全顺"
+}
+item {
+  id: 542
+  name: "福特-嘉年华"
+}
+item {
+  id: 543
+  name: "福特-征服者"
+}
+item {
+  id: 544
+  name: "福特-福克斯"
+}
+item {
+  id: 545
+  name: "福特-经典全顺"
+}
+item {
+  id: 546
+  name: "福特-翼虎"
+}
+item {
+  id: 547
+  name: "福特-途睿欧"
+}
+item {
+  id: 548
+  name: "福特-锐界"
+}
+item {
+  id: 549
+  name: "福迪-探索者Ⅱ"
+}
+item {
+  id: 550
+  name: "福迪-揽福"
+}
+item {
+  id: 551
+  name: "红旗-H7"
+}
+item {
+  id: 552
+  name: "纳智捷-U5SUV"
+}
+item {
+  id: 553
+  name: "纳智捷-优6SUV"
+}
+item {
+  id: 554
+  name: "纳智捷-大7SUV"
+}
+item {
+  id: 555
+  name: "纳智捷-纳5"
+}
+item {
+  id: 556
+  name: "纳智捷-锐3"
+}
+item {
+  id: 557
+  name: "英菲尼迪-ESQ"
+}
+item {
+  id: 558
+  name: "英菲尼迪-EX"
+}
+item {
+  id: 559
+  name: "英菲尼迪-Emerg-E"
+}
+item {
+  id: 560
+  name: "英菲尼迪-Etherea"
+}
+item {
+  id: 561
+  name: "英菲尼迪-FX"
+}
+item {
+  id: 562
+  name: "英菲尼迪-G系"
+}
+item {
+  id: 563
+  name: "英菲尼迪-JX"
+}
+item {
+  id: 564
+  name: "英菲尼迪-M系"
+}
+item {
+  id: 565
+  name: "英菲尼迪-Q30"
+}
+item {
+  id: 566
+  name: "英菲尼迪-Q50"
+}
+item {
+  id: 567
+  name: "英菲尼迪-Q50L"
+}
+item {
+  id: 568
+  name: "英菲尼迪-Q60"
+}
+item {
+  id: 569
+  name: "英菲尼迪-Q70"
+}
+item {
+  id: 570
+  name: "英菲尼迪-QX"
+}
+item {
+  id: 571
+  name: "英菲尼迪-QX30"
+}
+item {
+  id: 572
+  name: "英菲尼迪-QX50"
+}
+item {
+  id: 573
+  name: "英菲尼迪-QX70"
+}
+item {
+  id: 574
+  name: "英菲尼迪-QX80"
+}
+item {
+  id: 575
+  name: "荣威-350"
+}
+item {
+  id: 576
+  name: "荣威-550"
+}
+item {
+  id: 577
+  name: "荣威-750"
+}
+item {
+  id: 578
+  name: "荣威-950"
+}
+item {
+  id: 579
+  name: "荣威-RX3"
+}
+item {
+  id: 580
+  name: "荣威-RX5"
+}
+item {
+  id: 581
+  name: "荣威-RX5新能源"
+}
+item {
+  id: 582
+  name: "荣威-ei6"
+}
+item {
+  id: 583
+  name: "荣威-i6"
+}
+item {
+  id: 584
+  name: "莲花汽车-竞速"
+}
+item {
+  id: 585
+  name: "菲亚特-124"
+}
+item {
+  id: 586
+  name: "菲亚特-500"
+}
+item {
+  id: 587
+  name: "菲亚特-500L"
+}
+item {
+  id: 588
+  name: "菲亚特-500X"
+}
+item {
+  id: 589
+  name: "菲亚特-Sedici"
+}
+item {
+  id: 590
+  name: "菲亚特-周末风"
+}
+item {
+  id: 591
+  name: "菲亚特-朋多"
+}
+item {
+  id: 592
+  name: "菲亚特-派力奥"
+}
+item {
+  id: 593
+  name: "菲亚特-菲翔"
+}
+item {
+  id: 594
+  name: "观致-3"
+}
+item {
+  id: 595
+  name: "观致-5"
+}
+item {
+  id: 596
+  name: "讴歌-CDX"
+}
+item {
+  id: 597
+  name: "讴歌-ILX"
+}
+item {
+  id: 598
+  name: "讴歌-MDX"
+}
+item {
+  id: 599
+  name: "讴歌-NSX"
+}
+item {
+  id: 600
+  name: "讴歌-RDX"
+}
+item {
+  id: 601
+  name: "讴歌-RL"
+}
+item {
+  id: 602
+  name: "讴歌-TLX-L"
+}
+item {
+  id: 603
+  name: "起亚-GT4Stinger"
+}
+item {
+  id: 604
+  name: "起亚-K3"
+}
+item {
+  id: 605
+  name: "起亚-K3S"
+}
+item {
+  id: 606
+  name: "起亚-K5"
+}
+item {
+  id: 607
+  name: "起亚-K900"
+}
+item {
+  id: 608
+  name: "起亚-KX3"
+}
+item {
+  id: 609
+  name: "起亚-KX5"
+}
+item {
+  id: 610
+  name: "起亚-KX7"
+}
+item {
+  id: 611
+  name: "起亚-Magentis"
+}
+item {
+  id: 612
+  name: "起亚-SPORTAGE"
+}
+item {
+  id: 613
+  name: "起亚-Soul"
+}
+item {
+  id: 614
+  name: "起亚-VQ"
+}
+item {
+  id: 615
+  name: "起亚-佳乐"
+}
+item {
+  id: 616
+  name: "起亚-凯尊"
+}
+item {
+  id: 617
+  name: "起亚-千里马"
+}
+item {
+  id: 618
+  name: "起亚-斯汀格"
+}
+item {
+  id: 619
+  name: "起亚-智跑"
+}
+item {
+  id: 620
+  name: "起亚-极睿"
+}
+item {
+  id: 621
+  name: "起亚-焕驰"
+}
+item {
+  id: 622
+  name: "起亚-狮跑"
+}
+item {
+  id: 623
+  name: "起亚-福瑞迪"
+}
+item {
+  id: 624
+  name: "起亚-秀尔"
+}
+item {
+  id: 625
+  name: "起亚-速迈"
+}
+item {
+  id: 626
+  name: "起亚-锐欧"
+}
+item {
+  id: 627
+  name: "路虎-卫士"
+}
+item {
+  id: 628
+  name: "路虎-揽胜"
+}
+item {
+  id: 629
+  name: "路虎-揽胜星脉"
+}
+item {
+  id: 630
+  name: "路虎-揽胜极光"
+}
+item {
+  id: 631
+  name: "路虎-揽胜运动版"
+}
+item {
+  id: 632
+  name: "路虎-神行者"
+}
+item {
+  id: 633
+  name: "路虎-神行者2"
+}
+item {
+  id: 634
+  name: "道奇-ChargerSRT"
+}
+item {
+  id: 635
+  name: "道奇-凯领"
+}
+item {
+  id: 636
+  name: "道奇-挑战者"
+}
+item {
+  id: 637
+  name: "金杯-F50"
+}
+item {
+  id: 638
+  name: "金杯-S70"
+}
+item {
+  id: 639
+  name: "金杯-华晨金杯-750"
+}
+item {
+  id: 640
+  name: "金杯-小海狮X30"
+}
+item {
+  id: 641
+  name: "金杯-智尚S30"
+}
+item {
+  id: 642
+  name: "金杯-智尚S35"
+}
+item {
+  id: 643
+  name: "金杯-西部牛仔"
+}
+item {
+  id: 644
+  name: "金杯-阁瑞斯"
+}
+item {
+  id: 645
+  name: "铃木-Equator"
+}
+item {
+  id: 646
+  name: "铃木-凯泽西"
+}
+item {
+  id: 647
+  name: "铃木-利亚纳"
+}
+item {
+  id: 648
+  name: "铃木-北斗星"
+}
+item {
+  id: 649
+  name: "铃木-启悦"
+}
+item {
+  id: 650
+  name: "铃木-天语SX4"
+}
+item {
+  id: 651
+  name: "铃木-派喜"
+}
+item {
+  id: 652
+  name: "铃木-浪迪"
+}
+item {
+  id: 653
+  name: "铃木-维特拉"
+}
+item {
+  id: 654
+  name: "铃木-羚羊"
+}
+item {
+  id: 655
+  name: "铃木-英格尼斯"
+}
+item {
+  id: 656
+  name: "铃木-超级维特拉"
+}
+item {
+  id: 657
+  name: "铃木-雨燕"
+}
+item {
+  id: 658
+  name: "铃木-骁途"
+}
+item {
+  id: 659
+  name: "长城-C20R"
+}
+item {
+  id: 660
+  name: "长城-C30"
+}
+item {
+  id: 661
+  name: "长城-M1"
+}
+item {
+  id: 662
+  name: "长城-V80"
+}
+item {
+  id: 663
+  name: "长城-嘉誉"
+}
+item {
+  id: 664
+  name: "长城-精灵"
+}
+item {
+  id: 665
+  name: "长城-酷熊"
+}
+item {
+  id: 666
+  name: "长城-风骏6"
+}
+item {
+  id: 667
+  name: "长安-CS35"
+}
+item {
+  id: 668
+  name: "长安-CX20"
+}
+item {
+  id: 669
+  name: "长安-凌轩"
+}
+item {
+  id: 670
+  name: "长安-奔奔"
+}
+item {
+  id: 671
+  name: "长安-奔奔EV"
+}
+item {
+  id: 672
+  name: "长安-奔奔LOVE"
+}
+item {
+  id: 673
+  name: "长安-志翔"
+}
+item {
+  id: 674
+  name: "长安-悦翔V7"
+}
+item {
+  id: 675
+  name: "长安-杰勋"
+}
+item {
+  id: 676
+  name: "长安-睿骋"
+}
+item {
+  id: 677
+  name: "长安-睿骋CC"
+}
+item {
+  id: 678
+  name: "陆风-X2"
+}
+item {
+  id: 679
+  name: "陆风-X6"
+}
+item {
+  id: 680
+  name: "陆风-X8"
+}
+item {
+  id: 681
+  name: "陆风-逍遥"
+}
+item {
+  id: 682
+  name: "陆风-风华"
+}
+item {
+  id: 683
+  name: "陆风-风尚"
+}
+item {
+  id: 684
+  name: "雪佛兰-Code"
+}
+item {
+  id: 685
+  name: "雪佛兰-Impala"
+}
+item {
+  id: 686
+  name: "雪佛兰-Orlando"
+}
+item {
+  id: 687
+  name: "雪佛兰-Sonic"
+}
+item {
+  id: 688
+  name: "雪佛兰-Suburban"
+}
+item {
+  id: 689
+  name: "雪佛兰-Traverse"
+}
+item {
+  id: 690
+  name: "雪佛兰-乐风"
+}
+item {
+  id: 691
+  name: "雪佛兰-乐风RV"
+}
+item {
+  id: 692
+  name: "雪佛兰-乐骋"
+}
+item {
+  id: 693
+  name: "雪佛兰-创酷"
+}
+item {
+  id: 694
+  name: "雪佛兰-库罗德"
+}
+item {
+  id: 695
+  name: "雪佛兰-探界者"
+}
+item {
+  id: 696
+  name: "雪佛兰-斯帕可"
+}
+item {
+  id: 697
+  name: "雪佛兰-景程"
+}
+item {
+  id: 698
+  name: "雪佛兰-爱唯欧"
+}
+item {
+  id: 699
+  name: "雪佛兰-科尔维特"
+}
+item {
+  id: 700
+  name: "雪佛兰-科帕奇"
+}
+item {
+  id: 701
+  name: "雪佛兰-科沃兹"
+}
+item {
+  id: 702
+  name: "雪佛兰-科迈罗"
+}
+item {
+  id: 703
+  name: "雪佛兰-科鲁兹"
+}
+item {
+  id: 704
+  name: "雪佛兰-索罗德"
+}
+item {
+  id: 705
+  name: "雪佛兰-赛欧"
+}
+item {
+  id: 706
+  name: "雪佛兰-迈锐宝"
+}
+item {
+  id: 707
+  name: "雪佛兰-迈锐宝XL"
+}
+item {
+  id: 708
+  name: "雪铁龙-C-Zero"
+}
+item {
+  id: 709
+  name: "雪铁龙-C1"
+}
+item {
+  id: 710
+  name: "雪铁龙-C2"
+}
+item {
+  id: 711
+  name: "雪铁龙-C3-XR"
+}
+item {
+  id: 712
+  name: "雪铁龙-C4Aircross"
+}
+item {
+  id: 713
+  name: "雪铁龙-C4Cactus"
+}
+item {
+  id: 714
+  name: "雪铁龙-C4L"
+}
+item {
+  id: 715
+  name: "雪铁龙-C4PICASSO"
+}
+item {
+  id: 716
+  name: "雪铁龙-C4世嘉"
+}
+item {
+  id: 717
+  name: "雪铁龙-C5"
+}
+item {
+  id: 718
+  name: "雪铁龙-C6"
+}
+item {
+  id: 719
+  name: "雪铁龙-GT"
+}
+item {
+  id: 720
+  name: "雪铁龙-Survolt"
+}
+item {
+  id: 721
+  name: "雪铁龙-世嘉"
+}
+item {
+  id: 722
+  name: "雪铁龙-凯旋"
+}
+item {
+  id: 723
+  name: "雪铁龙-天逸C5AIRCROSS"
+}
+item {
+  id: 724
+  name: "雪铁龙-富康"
+}
+item {
+  id: 725
+  name: "雪铁龙-毕加索"
+}
+item {
+  id: 726
+  name: "雪铁龙-爱丽舍"
+}
+item {
+  id: 727
+  name: "雷克萨斯-ES"
+}
+item {
+  id: 728
+  name: "雷克萨斯-GSF"
+}
+item {
+  id: 729
+  name: "雷克萨斯-GX"
+}
+item {
+  id: 730
+  name: "雷克萨斯-HS"
+}
+item {
+  id: 731
+  name: "雷克萨斯-IS"
+}
+item {
+  id: 732
+  name: "雷克萨斯-ISF"
+}
+item {
+  id: 733
+  name: "雷克萨斯-LC"
+}
+item {
+  id: 734
+  name: "雷克萨斯-LF-CC"
+}
+item {
+  id: 735
+  name: "雷克萨斯-LF-Gh"
+}
+item {
+  id: 736
+  name: "雷克萨斯-LF-NX"
+}
+item {
+  id: 737
+  name: "雷克萨斯-LS"
+}
+item {
+  id: 738
+  name: "雷克萨斯-RCF"
+}
+item {
+  id: 739
+  name: "雷克萨斯-RX"
+}
+item {
+  id: 740
+  name: "雷克萨斯-RX经典"
+}
+item {
+  id: 741
+  name: "雷诺-DeZir"
+}
+item {
+  id: 742
+  name: "雷诺-Espace"
+}
+item {
+  id: 743
+  name: "雷诺-Symbioz"
+}
+item {
+  id: 744
+  name: "雷诺-TREZOR"
+}
+item {
+  id: 745
+  name: "雷诺-Twingo"
+}
+item {
+  id: 746
+  name: "雷诺-Twizy"
+}
+item {
+  id: 747
+  name: "雷诺-Wind"
+}
+item {
+  id: 748
+  name: "雷诺-塔利斯曼"
+}
+item {
+  id: 749
+  name: "雷诺-拉古那"
+}
+item {
+  id: 750
+  name: "雷诺-梅甘娜"
+}
+item {
+  id: 751
+  name: "雷诺-科雷傲"
+}
+item {
+  id: 752
+  name: "雷诺-科雷嘉"
+}
+item {
+  id: 753
+  name: "雷诺-风景"
+}
+item {
+  id: 754
+  name: "雷诺-风朗"
+}
+item {
+  id: 755
+  name: "马自达-2"
+}
+item {
+  id: 756
+  name: "马自达-3Axela昂克赛拉"
+}
+item {
+  id: 757
+  name: "马自达-3星骋"
+}
+item {
+  id: 758
+  name: "马自达-Hazumi"
+}
+item {
+  id: 759
+  name: "马自达-Shinari"
+}
+item {
+  id: 760
+  name: "马自达-Takeri"
+}
+item {
+  id: 761
+  name: "马自达-马3"
+}
+item {
+  id: 762
+  name: "马自达-马6"
+}
+item {
+  id: 763
+  name: "黄海-大柴神"
+}
+item {
+  id: 764
+  name: "黄海-旗胜V3"
+}
