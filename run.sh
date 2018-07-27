@@ -27,11 +27,11 @@ pipeline_config_path=$output_dir/$config
 # 因为dataset里面的东西是不允许修改的，所以这里要把config文件复制一份到输出目录
 cp $dataset_dir/$config $pipeline_config_path
 
-for i in {0..6}  # for循环中的代码执行5次，这里的左右边界都包含，也就是一共训练70000个step，每10000step验证一次
+for i in {0..4}  # for循环中的代码执行5次，这里的左右边界都包含，也就是一共训练70000个step，每10000step验证一次
 do
     echo "############" $i "runnning #################"
-    last=$[$i*10000]
-    current=$[($i+1)*10000]
+    last=$[$i*100]
+    current=$[($i+1)*100]
 	#sed -i 就是直接对文本文件进行操作的	sed -i 's/原字符串/新字符串/' /home/1.txt
     sed -i "s/^  num_steps: $last$/  num_steps: $current/g" $pipeline_config_path  # 通过num_steps控制一次训练最多100step
 
