@@ -9,7 +9,7 @@ echo current dir is $PWD
 export PYTHONPATH=$PYTHONPATH:$DIR:$DIR/slim:$DIR/object_detection
 
 # 定义各目录
-output_dir=./output  # 训练目录
+output_dir=/output  # 训练目录
 dataset_dir=/data/deepingSean/datafordetecion # 数据集目录，这里是写死的，记得修改
 
 train_dir=$output_dir/train
