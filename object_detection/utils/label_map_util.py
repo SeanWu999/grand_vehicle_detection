@@ -157,6 +157,7 @@ def create_category_index_from_labelmap(label_map_path):
   """
   label_map = load_labelmap(label_map_path)
   max_num_classes = max(item.id for item in label_map.item)
+
   categories = convert_label_map_to_categories(label_map, max_num_classes)
   return create_category_index(categories)
 

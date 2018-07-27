@@ -137,7 +137,8 @@ def main(unused_argv):
   max_num_classes = max([item.id for item in label_map.item])
   categories = label_map_util.convert_label_map_to_categories(
       label_map, max_num_classes)'''
-  categories = load_label_to_list(input_config.label_path)
+  label_path='/data/deepingSean/vihicleData/labels.txt'
+  categories = load_label_to_list(label_path)
 
   if FLAGS.run_once:
     eval_config.max_evals = 1
