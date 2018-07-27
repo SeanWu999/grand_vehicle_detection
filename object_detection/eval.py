@@ -133,12 +133,12 @@ def main(unused_argv):
       input_config)
 
   #修改
-  '''label_map = label_map_util.load_labelmap(input_config.label_map_path)
+  label_map = label_map_util.load_labelmap(input_config.label_map_path)
   max_num_classes = max([item.id for item in label_map.item])
   categories = label_map_util.convert_label_map_to_categories(
-      label_map, max_num_classes)'''
-  label_path='/data/deepingSean/vihicledataset/labels.txt'
-  categories = load_label_to_list(label_path)
+      label_map, max_num_classes)
+  #label_path='/data/deepingSean/vihicledataset/labels.txt'
+  #categories = load_label_to_list(label_path)
 
   if FLAGS.run_once:
     eval_config.max_evals = 1

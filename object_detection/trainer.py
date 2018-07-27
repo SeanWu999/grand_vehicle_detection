@@ -316,6 +316,7 @@ def train(create_tensor_dict_fn, create_model_fn, train_config, master, task,
     saver = tf.train.Saver(
         keep_checkpoint_every_n_hours=keep_checkpoint_every_n_hours)
 
+    print(train_config.num_steps)
     slim.learning.train(
         train_tensor,
         logdir=train_dir,
