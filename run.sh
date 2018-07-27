@@ -17,7 +17,7 @@ checkpoint_dir=$train_dir
 eval_dir=$output_dir/eval
 
 # config文件
-config=great_ssd_mobilenet_v1_vehicle.config
+config=giant_ssd_mobilenet_v1_vehicle.config
 pipeline_config_path=$output_dir/$config
 
 # 先清空输出目录，本地运行会有效果，tinymind上运行这一行没有任何效果
@@ -32,10 +32,10 @@ cp $dataset_dir/$config $pipeline_config_path
 echo "############" $i "runnning #################"
 #last=$[$i*100]
 #current=$[($i+1)*100]
-last=$[0]
-current=$[100]
+#last=$[0]
+#current=$[100]
 	#sed -i 就是直接对文本文件进行操作的	sed -i 's/原字符串/新字符串/' /home/1.txt
-sed -i "s/^  num_steps: $last$/  num_steps: $current/g" $pipeline_config_path  # 通过num_steps控制一次训练最多100step
+#sed -i "s/^  num_steps: $last$/  num_steps: $current/g" $pipeline_config_path  # 通过num_steps控制一次训练最多100step
 
 echo "############" $i "training #################"
 python ./object_detection/train.py --train_dir=$train_dir --pipeline_config_path=$pipeline_config_path
