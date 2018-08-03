@@ -3,7 +3,7 @@ a ssd_moblienet vehicel detection systems base on Tensorflow
 
 This is instruction for training a vihicel detector using the Tensorflow Object Detection systems. I will list the steps in details as possible as I can, if any questions or errors please let me know. The output of the detector will look like the following:
 
-![](readimg/img1.png)
+![](readimg/img1.jpg)
 
 ## get vehicle datasets
 The datasets all are from '汽车之家' [website](https://www.autohome.com.cn), we use Web crawler to download the vehicle images including  their labels, and totally there are 48856 pictures and 764 classfications. but the label only with classfication is not enough for object detection, we need location information for each image.
@@ -83,7 +83,7 @@ python ./inference.py --output_dir='./output_dir' --dataset_dir='./input_dir'
 
 Ok, it works, the following is detection result:
 
-![](readimg/img3.png)
+![](readimg/img3.jpg)
 
 ## Discussion
 Any doubts or errors, please contact me by Emails: wz_sean@163.com
